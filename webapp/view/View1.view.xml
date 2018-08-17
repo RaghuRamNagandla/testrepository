@@ -5,6 +5,8 @@
 			<Page title="{i18n>title}">
 				<content>
 					<Text text="Raghu"/>
+					<Text text="Ram"/>
+					<Text text="Nagandla"/>
 				</content>
 			</Page>
 		</pages>
